@@ -35,5 +35,5 @@ sample_submission.zip contains the submission format for the predictions against
 Evaluation Metric  
 Submissions are evaluated on F1-Score between the predicted class and the observed target.  
 
-Public Leaderboard Score: 0.3248
+Public Leaderboard Score: 0.3248 &
 Private Leaderboard Score: 0.4177  
